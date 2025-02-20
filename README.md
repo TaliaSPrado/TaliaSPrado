@@ -1,7 +1,6 @@
 # Perfil Profissional - Talia Santiago do Prado
 
 **Nome completo:** Talia Santiago do Prado  
-**Apelido (se preferir):**  
 **Localidade:** Belo Horizonte, Minas Gerais  
 **Uma curiosidade sobre você:** Sou uma pessoa curiosa e que gosta de trocar experiências 
 
