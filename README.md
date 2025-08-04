@@ -43,8 +43,6 @@ Olá! Sou a **Talia Santiago do Prado**, programadora full stack apaixonada por 
 
 - 🎓 **Engenharia de Produção** – PUC Minas (2018 – 2023)  
 - 💻 **Desenvolvimento Full Stack** – Infinity School (2024 – 2025)  
-- 🖌️ Estudante de **Design Gráfico**
-
 
 ---
 
@@ -69,3 +67,4 @@ Se quiser bater um papo sobre tecnologia, dados, design, carreira ou apenas comp
 ---
 
 <p align="center"><b>Obrigada por visitar meu perfil! Volte sempre 💖</b></p>
+
